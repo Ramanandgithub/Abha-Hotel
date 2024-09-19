@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #BA9C7D;
+    margin: 0;
+    padding: 0;
+}
+
+.room-container {
+    width: 60%;
+    margin: 50px auto;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.room-title {
+    text-align: center;
+    font-size: 36px;
+    color: #333;
+}
+
+.room-images {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.room-img {
+    width: 100%;
+    height: auto;
+    max-width: 500px;
+}
+
+.room-details {
+    margin-top: 20px;
+}
+
+.room-description {
+    font-size: 18px;
+    color: #666;
+}
+
+.room-price {
+    font-size: 22px;
+    color: #000;
+    margin-top: 15px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: #218838;
+}
+
+#availabilityMessage {
+    margin-top: 10px;
+    color: #007bff;
+    font-size: 18px;
+}

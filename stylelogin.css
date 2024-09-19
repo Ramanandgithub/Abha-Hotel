@@ -1,0 +1,25 @@
+
+body{
+    margin: 0;
+    padding: 0; 
+ }
+ .container{
+     margin-top: 2px;
+     max-width: auto;
+     margin:0 auto;
+     padding: 50px;
+     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+ }
+ .form-group{
+     margin-bottom:30px;
+ }
+ .heading{
+     padding-bottom: 20px;
+     font-weight: 400;
+     font-size: 25px;
+ }
+ 
+ 
+ 
+ /* CSS */
+ 
